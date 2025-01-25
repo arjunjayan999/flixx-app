@@ -7,8 +7,6 @@ Flixx App is a Vanilla JavaScript application that displays current movie and TV
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -31,6 +29,3 @@ Flixx App is a Vanilla JavaScript application that displays current movie and TV
 
 1. Open the `index.html` file in your preferred web browser to view the app.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
