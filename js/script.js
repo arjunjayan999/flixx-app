@@ -362,9 +362,7 @@ async function fetchAPIData(endpoint) {
   const API_KEY = global.api.apiKey;
   const API_URL = global.api.apiUrl;
   showSpinner();
-  const response = await fetch(
-    `${API_URL}${endpoint}?api_key=${API_KEY}&language=en-US`
-  );
+  const response = await fetch(`${API_URL}${endpoint}?api_key=${API_KEY}`);
   const data = await response.json();
   hideSpinner();
   return data;
