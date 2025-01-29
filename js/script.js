@@ -418,7 +418,7 @@ function init() {
       displaySlider();
       displayPopularMovies();
       break;
-    case "/shows.html":
+    case "/shows":
       console.log(global.currentPage);
       displayPopularShows();
       break;
