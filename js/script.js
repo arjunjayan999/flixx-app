@@ -43,6 +43,7 @@ async function displayPopularMovies() {
   });
 }
 async function displayPopularShows() {
+  console.log("displayPopularShows");
   const { results } = await fetchAPIData("tv/popular");
   results.forEach((show) => {
     const div = document.createElement("div");
@@ -410,6 +411,7 @@ function addCommasToNumber(number) {
 }
 
 function init() {
+  console.log(global.currentPage);
   switch (global.currentPage) {
     case "/":
     case "/index.html":
