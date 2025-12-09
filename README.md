@@ -1,6 +1,6 @@
-# Flixx App
+# FRESHFLIXX App
 
-Flixx App is a Vanilla JavaScript application that displays current movie and TV show information.
+FRESHFLIXX App is a Vanilla JavaScript application that displays current movie and TV show information.
 
 ## Table of Contents
 
@@ -18,14 +18,13 @@ Flixx App is a Vanilla JavaScript application that displays current movie and TV
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arjunjayan999/flixx-app.git
+   git clone https://github.com/arjunjayan999/FRESHFLIXX-app.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd flixx-app
+   cd FRESHFLIXX-app
    ```
 
 ## Usage
 
 1. Open the `index.html` file in your preferred web browser to view the app.
-
